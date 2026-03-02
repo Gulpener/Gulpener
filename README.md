@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Gulpener! 👋
+# Hey there, I'm Gertjan Gielen! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Open+source+enthusiast;Always+learning+something+new)](https://git.io/typing-svg)
 
@@ -59,6 +59,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gulpener)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://nl.linkedin.com/in/gertjangielen)
 
 </div>
 
