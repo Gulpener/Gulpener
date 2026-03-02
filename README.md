@@ -2,7 +2,7 @@
 
 # Hey there, I'm Gertjan Gielen! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Lead+%2F+Senior+Software+Developer;.NET+%26+Angular+Specialist;Interim+%7C+Team+Lead+%7C+Agile+Coach)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Lead+%2F+Senior+Software+Developer;.NET+%26+Angular+Specialist;Team+Lead+%7C+Agile+Coach)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,6 @@
 
 - 💼 **Lead / Senior Software Developer** based in 🇳🇱 the Netherlands
 - 🛠️ Full-stack specialist in **.NET (C#)** and **Angular**
-- 🚀 Available for **interim assignments** — bringing both hands-on dev and team leadership
 - 🧑‍🏫 Experienced in guiding teams through **agile transitions**
 - 💬 Feel free to reach out — I love connecting with people!
 
