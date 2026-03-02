@@ -2,7 +2,7 @@
 
 # Hey there, I'm Gertjan Gielen! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Open+source+enthusiast;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Lead+%2F+Senior+Software+Developer;.NET+%26+Angular+Specialist;Interim+%7C+Team+Lead+%7C+Agile+Coach)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,28 +10,30 @@
 
 ## 🙋 About Me
 
-- 🔭 Currently working on exciting open-source projects
-- 🌱 Always learning and exploring new technologies
-- 👯 Open to collaborating on interesting ideas
+- 💼 **Lead / Senior Software Developer** based in 🇳🇱 the Netherlands
+- 🛠️ Full-stack specialist in **.NET (C#)** and **Angular**
+- 🚀 Available for **interim assignments** — bringing both hands-on dev and team leadership
+- 🧑‍🏫 Experienced in guiding teams through **agile transitions**
+- ✍️ I blog about software craftsmanship — CQRS, GitHub Actions, C#/.NET best practices → [gertjangielen.com](https://www.gertjangielen.com)
 - 💬 Feel free to reach out — I love connecting with people!
-- ⚡ Fun fact: I enjoy turning ideas into working software
 
 ---
 
-## ��️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 
 </div>
 
@@ -60,6 +62,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gulpener)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://nl.linkedin.com/in/gertjangielen)
+[![Website](https://img.shields.io/badge/Blog-gertjangielen.com-58A6FF?style=for-the-badge&logo=rss&logoColor=white)](https://www.gertjangielen.com)
 
 </div>
 
