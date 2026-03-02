@@ -14,7 +14,6 @@
 - 🛠️ Full-stack specialist in **.NET (C#)** and **Angular**
 - 🚀 Available for **interim assignments** — bringing both hands-on dev and team leadership
 - 🧑‍🏫 Experienced in guiding teams through **agile transitions**
-- ✍️ I blog about software craftsmanship — CQRS, GitHub Actions, C#/.NET best practices → [gertjangielen.com](https://www.gertjangielen.com)
 - 💬 Feel free to reach out — I love connecting with people!
 
 ---
@@ -62,7 +61,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gulpener)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://nl.linkedin.com/in/gertjangielen)
-[![Website](https://img.shields.io/badge/Blog-gertjangielen.com-58A6FF?style=for-the-badge&logo=rss&logoColor=white)](https://www.gertjangielen.com)
 
 </div>
 
